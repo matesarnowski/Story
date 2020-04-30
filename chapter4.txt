@@ -1,1 +1,2 @@
 This is new chapter 4 on master branch
+This 2nd line is totally new. Do you like it?
